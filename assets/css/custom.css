@@ -1,0 +1,12 @@
+/* your styles go here */
+
+.table th {
+	text-align: center !important;
+	text-transform: uppercase !important;
+	color: #555555 !important;
+}
+
+.table-hover tbody tr:hover td{
+    background-color: #E0F7FA !important;
+    color: #000000;
+}
